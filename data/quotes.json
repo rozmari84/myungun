@@ -1,0 +1,992 @@
+[
+  {
+    "id": "abf30a1d7d71",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "I only wish that wisdom were the kind of thing that flowed ... from the vessel that was full to the one that was empty."
+  },
+  {
+    "id": "dc2e322716e1",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "It would be better for me... that multitudes of men should disagree with me rather than that I, being one, should be out of harmony with myself."
+  },
+  {
+    "id": "0223c7831457",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "In every one of us there are two ruling and directing principles, whose guidance we follow wherever they may lead; the one being an innate desire of pleasure; the other, an acquired judgment which aspires after excellence."
+  },
+  {
+    "id": "a4cbaf116de5",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Oh dear Pan and all the other gods of this place, grant that I may be beautiful inside. Let all my external possessions be in friendly harmony with what is within. May I consider the wise man rich. As for gold, let me have as much as a moderate man could bear and carry with him."
+  },
+  {
+    "id": "481fc2223f5b",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Has a philosopher like you failed to discover that our country is more to be valued and higher and holier far than mother or father or any ancestor, and more to be regarded in the eyes of the gods and of men of understanding?"
+  },
+  {
+    "id": "e052438e61e8",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "μηδὲν πρὸ τοῦ δικαίου"
+  },
+  {
+    "id": "aa0c41b793e0",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Wonder is the feeling of a philosopher, and philosophy begins in wonder."
+  },
+  {
+    "id": "146bd0a7398d",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "ἐγὼ δὲ οὐδὲν ἐπίσταμαι πλέον πλὴν βραχέος, ὅσον λόγον παρ᾽ ἑτέρου σοφοῦ λαβεῖν καὶ ἀποδέξασθαι μετρίως."
+  },
+  {
+    "id": "9fc85146ddf5",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Each of these private teachers who work for pay ... inculcates nothing else than these opinions of the multitude which they opine when they are assembled and calls this knowledge wisdom."
+  },
+  {
+    "id": "cb3c015ee082",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Anyone who holds a true opinion without understanding is like a blind man on the right road."
+  },
+  {
+    "id": "3468d696dd83",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "How singular is the thing called pleasure, and how curiously related to pain, which might be thought to be the opposite of it; for they never come to a man together, and yet he who pursues either of them is generally compelled to take the other. They are two, and yet they grow together out of one head or stem."
+  },
+  {
+    "id": "66dfa1be775d",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "The true disciple of philosophy is likely to be misunderstood by other men; they do not perceive that he is ever pursuing death and dying; and if this is true, why, having had the desire of death all his life long, should he repine at that which he has always been pursuing and desiring?"
+  },
+  {
+    "id": "ff95fe9e3f8a",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "The body is a source of endless trouble to us by reason of the mere requirement of food; and is also liable to diseases which overtake and impede us in the search after truth: and by filling us so full of loves, and lusts, and fears, and fancies, and idols, and every sort of folly, prevents our ever having, as people say, so much as a thought."
+  },
+  {
+    "id": "9ddfd80fa007",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Whence come wars, and fighting, and factions? whence but from the body and the lusts of the body? For wars are occasioned by the love of money, and money has to be acquired for the sake and in service of the body; and in consequence of all these things, the time which ought to be given to philosophy is lost."
+  },
+  {
+    "id": "fe5c0e080568",
+    "philosopher": "Socrates",
+    "tradition": "서양",
+    "quote": "Either knowledge is not to be attained at all, or if at all, after death. For then, and not til then, the soul will be in herself alone and without the body."
+  },
+  {
+    "id": "aa6dfdee5c5f",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Perception and knowledge could never be the same."
+  },
+  {
+    "id": "39636a490533",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Neither perception nor true opinion, nor reason or explanation combined with true opinion could be knowledge… Then our art of midwifery declare to us that all the offspring that have been born are mere wind-eggs and not worth rearing… and if you remain barren, you will be less harsh and gentler to your associates, for you will have the wisdom not to think you know that which you do not know."
+  },
+  {
+    "id": "35e2606c7c72",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "No one should be discouraged, Theaetetus, who can make constant progress, even though it be slow."
+  },
+  {
+    "id": "2f922058e7a7",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Knowledge is the food of the soul; and we must take care, my friend, that the Sophist does not deceive us when he praises what he sells, like the dealers wholesale or retail who sell the food of the body; for they praise indiscriminately all their goods, without knowing what are really beneficial or hurtful."
+  },
+  {
+    "id": "e87230afed6e",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "The wisdom which knows what are and are not dangers is opposed to the ignorance of them"
+  },
+  {
+    "id": "568df58c30eb",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Phaedrus: Socrates, you easily make up stories of Egypt or any country you please."
+  },
+  {
+    "id": "f26e6aef68fc",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "τοῖς μὲν οὖν τότε, ἅτε οὐκ οὖσι σοφοῖς ὥσπερ ὑμεῖς οἱ νέοι, ἀπέχρη δρυὸς καὶ πέτρας ἀκούειν ὑπ᾽ εὐηθείας, εἰ μόνον ἀληθῆ λέγοιεν: σοὶ δ᾽ ἴσως διαφέρει τίς ὁ λέγων καὶ ποδαπός."
+  },
+  {
+    "id": "4cb23fdeba0a",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "εὖ ἂν ἔχοι ... εἰ τοιοῦτον εἴη ἡ σοφία ὥστ᾽ ἐκ τοῦ πληρεστέρου εἰς τὸ κενώτερον ῥεῖν ἡμῶν..."
+  },
+  {
+    "id": "cfd9149b0ed0",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Neither family, nor privilege, nor wealth, nor anything but Love can light that beacon which a man must steer by when he sets out to live the better life."
+  },
+  {
+    "id": "939ebfbc3657",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "The beginning in every task is the chief thing."
+  },
+  {
+    "id": "bc2e9e7e96d0",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "There is no one who ever acts honestly in the administration of states, nor any helper who will save any one who maintains the cause of the just."
+  },
+  {
+    "id": "b8e3c212c0e2",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Since those who rule in the city do so because they own a lot, I suppose they're unwilling to enact laws to prevent young people who've had no discipline from spending and wasting their wealth, so that by making loans to them, secured by the young people's property, and then calling those loans in, they themselves become even richer and more honored."
+  },
+  {
+    "id": "a3a2b73513a3",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "οὐκ εἰσὶν οἱ παμπλούσιοι ἀγαθοί"
+  },
+  {
+    "id": "87d0e82c50e7",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "We speak of a clock as an instrument for measuring time.  In Plato and Aristotle's scheme of things, time (χρόνος) is itself a kind of clock, not just the passage of events, but a standard by which that passage can be measured. At one point Plato notes ...'men scarcely realize that the journeyings of these planets are time.' ...time is to be actually identified with the planetary motions."
+  },
+  {
+    "id": "94cafdb17704",
+    "philosopher": "Plato",
+    "tradition": "서양",
+    "quote": "Even Plato seems to me to be in all main points only a Brahmin’s good pupil."
+  },
+  {
+    "id": "6399af70a02e",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "My lectures are published and not published; they will be intelligible to those who heard them, and to none beside."
+  },
+  {
+    "id": "f9e643967d28",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "Nature does not do anything in vain."
+  },
+  {
+    "id": "743e2ed6bb0a",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "Knowledge of the fact differs from knowledge of the reason for the fact."
+  },
+  {
+    "id": "1a511d10cb06",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "The science which has to do with nature clearly concerns itself for the most part with bodies and magnitudes and their properties and movements, but also with the principles of this sort of substance, as many as they may be."
+  },
+  {
+    "id": "8e943b140a1b",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "It is necessary that every thing which is harmonized, should be generated from that which is void of harmony, and that which is void of harmony from that which is harmonized. ...But there is no difference, whether this is asserted of harmony, or of order, or composition... the same reason will apply to all of these."
+  },
+  {
+    "id": "fff0894dadcb",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "[U]niversal is known according to reason, but that which is particular, according to sense..."
+  },
+  {
+    "id": "ea114bd5ff39",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "[A]ll things as subsist from nature appear to contain in themselves a principle of motion and permanency; some according to place, others according to increase and diminuation; and others according to change in quality."
+  },
+  {
+    "id": "af752ed01cf6",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "Since... nature is a principle of motion and mutation... it is necessary that we should not be ignorant of what motion is... But motion appears to belong to things continuous; and the infinite first presents itself to the view in that which is continuous. ...[F]requently ...those who define the continuous, employ the nature or the infinite, as if that which is divisible to infinity is continuous."
+  },
+  {
+    "id": "540867aa746f",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "[I]t is impossible for motion to subsist without place, and void, and time."
+  },
+  {
+    "id": "4f28c87d65a0",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "[T]hey pronounce absurdly who thus speak, as the Pythagoreans assert: for at the same time they make the infinite to be essence, and distribute it into parts."
+  },
+  {
+    "id": "5251cd510f06",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "[I]t is impossible that each of the elements should be infinite. For that is body which has interval on all sides; and that is infinite which has extension without bound."
+  },
+  {
+    "id": "4a41eb86fc58",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "Plato... introduces two infinities, because both in increase and diminution there appears to be transcendency, and a progression to infinity. Though... he did not use them: for neither is there infinity in numbers by diminution or division; since unity is a minimum: nor by increase; for he extends number as far as to the decad."
+  },
+  {
+    "id": "2b192f8d0d3b",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "The bodies of which the world is composed are solids, and therefore have three dimensions. Now, three is the most perfect number,—it is the first of numbers, for of one we do not speak as a number, of two we say both, but three is the first number of which we say all. Moreover, it has a beginning, a middle, and an end."
+  },
+  {
+    "id": "27212062e7b8",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "The least initial deviation from the truth is multiplied later a thousandfold."
+  },
+  {
+    "id": "caf766e68ade",
+    "philosopher": "Aristotle",
+    "tradition": "서양",
+    "quote": "That body is heavier than another which, in an equal bulk, moves downward quicker."
+  },
+  {
+    "id": "522f65c07423",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived—not in the least like the rich. (Hays translation)"
+  },
+  {
+    "id": "1c0634321ebe",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "From Apollonius, true liberty, and unvariable steadfastness, and not to regard anything at all, though never so little, but right and reason: and always..that it was possible for the same man to be both vehement and remiss: a man not subject to be vexed, and offended with the incapacity of his scholars and auditors in his lectures and expositions."
+  },
+  {
+    "id": "bcf034930c1f",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Not to display anger or other emotions. To be free of passion and yet full of love. (Hays translation)"
+  },
+  {
+    "id": "953d63e932e7",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Self-control and resistance to distractions. Optimism in adversity—especially illness. (Hays translation)"
+  },
+  {
+    "id": "c93a478e4d21",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "He was a man who looked at what ought to be done, not to the reputation which is got by a man's acts."
+  },
+  {
+    "id": "3cb91f1cf997",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Ἕωθεν προλέγειν ἑαυτῷ: συντεύξομαι περιέργῳ, ἀχαρίστῳ, ὑβριστῇ, δολερῷ, βασκάνῳ, ἀκοινωνήτῳ: πάντα ταῦτα συμβέβηκεν ἐκείνοις παρὰ τὴν ἄγνοιαν τῶν ἀγαθῶν καὶ κακῶν."
+  },
+  {
+    "id": "f06f131524a2",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "γεγόναμεν γὰρ πρὸς συνεργίαν ὡς πόδες, ὡς χεῖρες, ὡς βλέφαρα, ὡς οἱ στοῖχοι τῶν ἄνω καὶ κάτω ὀδόντων. τὸ οὖν ἀντιπράσσειν ἀλλήλοις παρὰ φύσιν."
+  },
+  {
+    "id": "41ec50437567",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Whatever this is that I am, it is flesh and a little spirit and an intelligence. (Hays translation)"
+  },
+  {
+    "id": "d0caba00b7ab",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "What is divine is full of Providence. Even chance is not divorced from nature, from the inweaving and enfolding of things governed by Providence. Everything proceeds from it. (Hays translation)"
+  },
+  {
+    "id": "4cabbd875aab",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "There is a limit to the time assigned you, and if you don't use it to free yourself it will be gone and never return. (Hays translation)"
+  },
+  {
+    "id": "e2bd99978bee",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Concentrate every minute like a Roman—like a man—on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions. (Hays translation)"
+  },
+  {
+    "id": "6db35503e7a5",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Yes, you can--if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable. (Hays translation)"
+  },
+  {
+    "id": "a378f532673c",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "You see how few things you have to do to live a satisfying and reverent life? If you can manage this, that's all even the gods can ask of you. (Hays translation)"
+  },
+  {
+    "id": "0c528d837010",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "Give thyself time to learn something new and good, and cease to be whirled around."
+  },
+  {
+    "id": "97aec92ed249",
+    "philosopher": "Marcus Aurelius",
+    "tradition": "서양",
+    "quote": "This thou must always bear in mind, what is the nature of the whole..."
+  },
+  {
+    "id": "4d7681d66eb6",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Quaeris Alcidae parem? Nemo est nisi ipse."
+  },
+  {
+    "id": "9543a22ed598",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "rursus prosperum ac felix scelus virtus vocatur; sontibus parent boni, ius est in armis, opprimit leges timor."
+  },
+  {
+    "id": "8c5308eb2dfa",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "inveniet viam aut faciet."
+  },
+  {
+    "id": "30bc0c648dfe",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Iniqua raro maximis virtutibus fortuna parcit ; nemo se tuto diu periculis offerre tam crebris potest; quem saepe transit casus, aliquando invenit."
+  },
+  {
+    "id": "1b9e0d0b21a3",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "qui genus iactat suum, aliena laudat."
+  },
+  {
+    "id": "6528a8e2fb32",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "ars prima regni est posse invidiam pati."
+  },
+  {
+    "id": "2a8a0d377c8d",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "arma non servant modum; nec temperari facile nec reprimi potest stricti ensis ira; bella delectat cruor."
+  },
+  {
+    "id": "6bbfebdb337b",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "quaeritur belli exitus, non causa."
+  },
+  {
+    "id": "5dc29cfa68b5",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Cogi qui potest nescit mori."
+  },
+  {
+    "id": "5b30cb6c7d01",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Non est ad astra mollis e terris via."
+  },
+  {
+    "id": "6f87ecf075b4",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "quae fuit durum pati, meminisse dulce est."
+  },
+  {
+    "id": "95d5f92c5933",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Qui non vetat peccare cum possit, iubet."
+  },
+  {
+    "id": "e998a641d1a9",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Mortem misericors saepe pro vita dabit."
+  },
+  {
+    "id": "15f7b1c4a16d",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Pyrrhus: Lex nulla capto parcit aut poenam impedit.Agamemnon: Quod non vetat lex, hoc vetat fieri pudor.Pyr: Quodcumque libuit facere victori licet.Agam.: Minimum decet libere cui multum licet."
+  },
+  {
+    "id": "5318b38b3b0e",
+    "philosopher": "Seneca the Younger",
+    "tradition": "서양",
+    "quote": "Levis est dolor qui capere consilium potest."
+  },
+  {
+    "id": "315817470293",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "Τῷ λογικῷ ζώῳ μόνον ἀφόρητόν ἐστι τὸ ἄλογον, τὸ δ᾿ εὔλογον φορητόν."
+  },
+  {
+    "id": "08d316f141ee",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "Τὸ δ᾿ ἀπάγξασθαι οὐκ ἔστιν ἀφόρητον; — Ὅταν γοῦν πάθῃ τις ὅτι εὔλογον, ἀπελθὼν ἀπήγξατο."
+  },
+  {
+    "id": "a7b8724ee7f6",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "καίτοι ὅ γε θεὸς οὐ μόνον ἔδωκεν ἡμῖν τὰς δυνάμεις ταύτας, καθ᾿ ἃς οἴσομεν πᾶν τὸ ἀποβαῖνον μὴ ταπεινούμενοι μηδὲ συγκλώμενοι ὑπ᾿ αὐτοῦ, ἀλλ᾿ ὃ ἦν ἀγαθοῦ βασιλέως καὶ ταῖς ἀληθείαις πατρός, ἀκώλυτον τοῦτο ἔδωκεν, ἀνανάγκαστον, ἀπαραπόδιστον, ὅλον αὐτὸ ἐφ᾿ ἡμῖν ἐποίησεν."
+  },
+  {
+    "id": "7f942092965a",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "καὶ ἁπλῶς οὔτε θάνατος οὔτε φυγὴ οὔτε πόνος οὔτε ἄλλο τι τῶν τοιούτων αἴτιόν ἐστι τοῦ πράττειν τι ἢ μὴ πράττειν ἡμᾶς, ἀλλ᾿ ὑπολήψεις καὶ δόγματα."
+  },
+  {
+    "id": "4a2788ad6fec",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "λόγου γὰρ μέγεθος οὐ μήκει οὐδ᾿ ὕψει κρίνεται, ἀλλὰ δόγμασιν."
+  },
+  {
+    "id": "d6ddee94d9ca",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "Ἀνδράποδον, οὐκ ἀνέξῃ τοῦ ἀδελφοῦ τοῦ σαυτοῦ, ὃς ἔχει τὸν Δία πρόγονον, ὥσπερ υἱὸς ἐκ τῶν αὐτῶν σπερμάτων γέγονεν καὶ τῆς αὐτῆς ἄνωθεν καταβολῆς, ἀλλ᾿ εἰ ἔν τινι τοιαύτῃ χώρᾳ κατετάγης ὑπερεχούσῃ, εὐθὺς τύραννον καταστήσεις σεαυτόν;"
+  },
+  {
+    "id": "61dbd4d818f0",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "ὅταν κλείσητε τὰς θύρας καὶ σκότος ἔνδον ποιήσητε, μέμνησθε μηδέποτε λέγειν ὅτι μόνοι ἐστέ· οὐ γὰρ ἐστέ, ἀλλ᾿ ὁ θεὸς ἔνδον ἐστὶ καὶ ὁ ὑμέτερος δαίμων ἐστίν. καὶ τίς τούτοις χρεία φωτὸς εἰς τὸ βλέπειν τί ποιεῖτε;"
+  },
+  {
+    "id": "6fc22591e337",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "Οὐδέν, ἔφη, τῶν μεγάλων ἄφνω γίνεται, ὅπου γε οὐδ᾿ ὁ βότρυς οὐδὲ σύκον. ἄν μοι νῦν λέγῃς ὅτι 'θέλω σύκον', ἀποκρινοῦμαί σοι ὅτι 'χρόνου δεῖ'. ἄφες ἀνθήσῃ πρῶτον, εἶτα προβάλῃ τὸν καρπόν, εἶτα πεπανθῇ."
+  },
+  {
+    "id": "dca3cf5f0d0d",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "ἓν τῶν γεγονότων ἀπήρκει πρὸς τὸ αἰσθέσθαι τῆς προνοίας τῷ γε αἰδήμονι καὶ εὐχαρίστῳ."
+  },
+  {
+    "id": "5d99a4665382",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "εἰ γοῦν ἀηδὼν ἤμην, ἐποίουν τὰ τῆς ἀηδόνος, εἰ κύκνος, τὰ τοῦ κύκνου."
+  },
+  {
+    "id": "2d9969fd616b",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "Ἐπειδὴ λόγος ἐστὶν ὁ διαρθρῶν καὶ ἐξεργαζόμενος τὰ λοιπά, ἔδει δ᾿ αὐτὸν μὴ ἀδιάρθρωτον εἶναι."
+  },
+  {
+    "id": "7b8c4f3b8d9b",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "Εἰ ἀληθές ἐστι τὸ ὑπὸ τῶν φιλοσόφων λεγόμενον ὅτι πᾶσιν ἀνθρώποις μία ἀρχὴ καθάπερ τοῦ συγκαταθέσθαι τὸ παθεῖν ὅτι ὑπάρχει καὶ τοῦ ἀνανεῦσαι τὸ παθεῖν ὅτι οὐχ ὑπάρχει καὶ νὴ Δία τοῦ ἐπισχεῖν τὸ παθεῖν ὅτι ἄδηλόν ἐστιν, οὕτως καὶ τοῦ ὁρμῆσαι ἐπί ⟨τι⟩ τὸ παθεῖν ὅτι ἐμοὶ συμφέρει."
+  },
+  {
+    "id": "c90d294fcbf9",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "ἔδει νὴ τοὺς θεοὺς μελετᾶν ἐπὶ τῶν μικρῶν καὶ ἀπ᾿ ἐκείνων ἀρχομένους διαβαίνειν ἐπὶ τὰ μείζω."
+  },
+  {
+    "id": "af99c8064bf3",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "τὸ κοχλίου ἀγαθὸν οὐκ εἰκὸς εἶναι ⟨ἐν⟩ τῷ κελύφει, τὸ οὖν τοῦ ἀνθρώπου εἰκός;"
+  },
+  {
+    "id": "58c74080aee1",
+    "philosopher": "Epictetus",
+    "tradition": "서양",
+    "quote": "τίνες εἰσὶν οὗτοι, ὑφ᾿ ὧν εἴωθας λέγειν ὅτι μαίνονται; τί οὖν; ὑπὸ τῶν μαινομένων θαυμάζεσθαι θέλεις;"
+  },
+  {
+    "id": "397f2a85f8ce",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "What I have given in the second book on the nature and properties of curved lines, and the method of examining them, is, it seems to me, as far beyond the treatment in the ordinary geometry, as the rhetoric of Cicero is beyond the a, b, c of children."
+  },
+  {
+    "id": "79f2fc9b97e6",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Me tenant comme je suis, un pied dans un pays et l'autre en un autre, je trouve ma condition très heureuse, en ce qu'elle est libre."
+  },
+  {
+    "id": "ae154c77f090",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "So blind is the curiosity by which mortals are possessed, that they often conduct their minds along unexplored routes, having no reason to hope for success, but merely being willing to risk the experiment of finding whether the truth they seek lies there."
+  },
+  {
+    "id": "c9bfc801d838",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "The entire method consists in the order and arrangement of the things to which the mind's eye must turn so that we can discover some truth."
+  },
+  {
+    "id": "a47246a8386a",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Mais apud me omnia fiunt Mathematicè in Natura"
+  },
+  {
+    "id": "f74a617fefbc",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Le bon sens est la chose du monde la mieux partagée : car chacun pense en être si bien pourvu, que ceux même qui sont les plus difficiles à contenter en toute autre chose, n'ont point coutume d'en désirer plus qu'ils en ont."
+  },
+  {
+    "id": "83f73adf275d",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Je pense, donc je suis."
+  },
+  {
+    "id": "570da7e03671",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "In order to seek truth, it is necessary once in the course of our life, to doubt, as far as possible, of all things."
+  },
+  {
+    "id": "eddb4fae8585",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "I suppose the body to be nothing but a statue or machine made of earth, which God forms with the explicit intention of making it as much as possible like us."
+  },
+  {
+    "id": "5fb866e07397",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "I should like you to consider that these functions (including passion, memory, and imagination) follow from the mere arrangement of the machine’s organs every bit as naturally as the movements of a clock or other automaton follow from the arrangement of its counter-weights and wheels."
+  },
+  {
+    "id": "ab88415e577e",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Analytical geometry was invented by Descartes and the first exposition of it was given in 1637: that exposition was both difficult and obscure, and to most of his contemporaries, to whom the method was new, it must have been incomprehensible. Wallis made the method intelligible to all mathematicians."
+  },
+  {
+    "id": "527af364a3b8",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Descartes maintained his confidence in the instantaneity of light. ...Yet in his derivation of the law of refraction, Descartes reasoned that light traveled faster in a dense medium than in one less dense. He seems to have had no qualms about comparing infinite magnitudes!"
+  },
+  {
+    "id": "273d0cd2e8a4",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Newton's proof of the law of refraction is based on an erroneous notion that light travels faster in glass than in air, the same error that Descartes had made. This error stems from the fact that both of them thought that light was corpuscular in nature."
+  },
+  {
+    "id": "4e6cb47a5614",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "It should be remembered that it was Descartes who systematised our Mathematical notation. He used the letters at the end of the alphabet as variables, and those at the beginning as constants, and he brought into general use our present system of indices. He also introduced the method of indeterminate co-efficients for the solution of equations."
+  },
+  {
+    "id": "22b4e375665e",
+    "philosopher": "René Descartes",
+    "tradition": "서양",
+    "quote": "Descartes was an eminent mathematician, and it would seem that the bent of his mind led him to overestimate the value of deductive reasoning from general principles, as much as Bacon had underestimated it."
+  },
+  {
+    "id": "cd10a0bc68f9",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "This I know, that between finite and infinite there is no comparison; so that the difference between God and the greatest and most excellent created thing is no less than the difference between God and the least created thing."
+  },
+  {
+    "id": "2fa1a68bb107",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Nature is satisfied with little; and if she is, I am also."
+  },
+  {
+    "id": "af407fec7d98",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Of all the things that are beyond my power, I value nothing more highly than to be allowed the honor of entering into bonds of friendship with people who sincerely love truth. For, of things beyond our power, I believe there is nothing in the world which we can love with tranquility except such men."
+  },
+  {
+    "id": "2b1ccc1cc8a0",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "All the better; they do not force me to do anything that I would not have done of my own accord if I did not dread scandal. But since they want it that way, I enter gladly on the path that is opened to me, with the consolation that my departure will be more innocent than was the exodus of the early Hebrews from Egypt."
+  },
+  {
+    "id": "1f3b06be773f",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "The ordinary surroundings of life which are esteemed by men (as their actions testify) to be the highest good, may be classed under the three heads — Riches, Fame, and the Pleasures of Sense: with these three the mind is so absorbed that it has little power to reflect on any different good."
+  },
+  {
+    "id": "e81de4b43859",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Tota felicitas aut infelicitas in hoc solo sita est; videlicet in qualitate obiecti, cui adhaeremus amore."
+  },
+  {
+    "id": "79f7746a1f00",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Sed amor erga rem aeternam et infinitam sola laetitia pascit animum, ipsaque omnis tristitiae est expers; quod valde est desiderandum totisque viribus quaerendum."
+  },
+  {
+    "id": "581e1473dfd5",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Deus est omnium rerum causa immanens, non vero transiens"
+  },
+  {
+    "id": "984060f2dcbd",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Ordo et connexio idearum idem est ac ordo et connexio rerum"
+  },
+  {
+    "id": "4624c31743f0",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "veritas norma sui et falsi est"
+  },
+  {
+    "id": "e09d099a5d55",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Hic conatus aliquid agendi et etiam omittendi ea sola de causa ut hominibus placeamus, vocatur ambitio præsertim quando adeo impense vulgo placere conamur ut cum nostro aut alterius damno quædam agamus vel omittamus; alias humanitas appellari solet."
+  },
+  {
+    "id": "50693af0a562",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Meum institutum non est verborum significationem sed rerum naturam explicare"
+  },
+  {
+    "id": "715a8efbd0ad",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Humanam impotentiam in moderandis et coercendis affectibus servitutem voco; homo enim affectibus obnoxius sui juris non est sed fortunæ in cujus potestate ita est ut sæpe coactus sit quanquam meliora sibi videat, deteriora tamen sequi."
+  },
+  {
+    "id": "ea0d17bec895",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Deus seu Natura"
+  },
+  {
+    "id": "612b9c5ef221",
+    "philosopher": "Baruch Spinoza",
+    "tradition": "서양",
+    "quote": "Maxima superbia vel abjectio est maxima sui ignorantia."
+  },
+  {
+    "id": "2a1026843e1b",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "The wish to talk to God is absurd. We cannot talk to one we cannot comprehend — and we cannot comprehend God; we can only believe in Him. The uses of prayer are thus only subjective."
+  },
+  {
+    "id": "09f77fe4f45a",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "Religion is too important a matter to its devotees to be a subject of ridicule. If they indulge in absurdities, they are to be pitied rather than ridiculed."
+  },
+  {
+    "id": "996456b14a07",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "The body is a temple."
+  },
+  {
+    "id": "822739681564",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "Moral Teleology supplies the deficiency in physical Teleology, and first establishes a Theology; because the latter, if it did not borrow from the former without being observed, but were to proceed consistently, could only found a Demonology, which is incapable of any definite concept."
+  },
+  {
+    "id": "ae300530c459",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "Freedom is the alone unoriginated birthright of man, and belongs to him by force of his humanity; and is independence on the will and co-action of every other in so far as this consists with every other person’s freedom."
+  },
+  {
+    "id": "859acd205207",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "Out of the crooked timber of humanity, no straight thing was ever made."
+  },
+  {
+    "id": "ed6c8164417b",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "...aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden."
+  },
+  {
+    "id": "5d00f704fa15",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "...happiness is not an ideal of reason but of imagination, resting solely on empirical grounds."
+  },
+  {
+    "id": "73b69a531346",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "There are three juridical attributes that inseparably belong to the citizen by right. These are:"
+  },
+  {
+    "id": "6e190c08ba6c",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "Men will not understand … that when they fulfil their duties to men, they fulfil thereby God's commandments; that they are consequently always in the service of God, as long as their actions are moral, and that it is absolutely impossible to serve God otherwise."
+  },
+  {
+    "id": "52f698d49607",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "Have patience awhile; slanders are not long-lived. Truth is the child of time; erelong she shall appear to vindicate thee."
+  },
+  {
+    "id": "35a56758e7f8",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "The death of dogma is the birth of morality."
+  },
+  {
+    "id": "e5800b254d04",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "By a lie a man throws away and, as it were, annihilates his dignity as a man. A man who himself does not believe what he tells another … has even less worth than if he were a mere thing. … makes himself a mere deceptive appearance of man, not man himself."
+  },
+  {
+    "id": "5958fa291127",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "As the analysis of a substantial composite terminates only in a part which is not a whole, that is, in a simple part, so synthesis terminates only in a whole which is not a part, that is, the world."
+  },
+  {
+    "id": "3c5c5d2f22f3",
+    "philosopher": "Immanuel Kant",
+    "tradition": "서양",
+    "quote": "The mind intent upon resolving as well as compounding the concept of a composite demands and presumes boundaries in which it may acquiesce in the former as well as in the latter direction."
+  },
+  {
+    "id": "1c1e3c1d6734",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Freier Wille ohne Fatum ist ebenso wenig denkbar, wie Geist ohne Reelles, Gutes ohne Böses."
+  },
+  {
+    "id": "b21f1bfc9cba",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."
+  },
+  {
+    "id": "32d521b57062",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "May I really say it! All truths are bloody truths to me—take a look at my previous writings."
+  },
+  {
+    "id": "4786977e68fa",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Style ought to prove that one believes in an idea; not only that one thinks it but also feels it."
+  },
+  {
+    "id": "4e913fd93dca",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Against that positivism which stops before phenomena, saying \"there are only facts,\" I should say: no, it is precisely facts that do not exist, only interpretations."
+  },
+  {
+    "id": "9a1c513ac407",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "So far no one had had enough courage and intelligence to reveal me to my dear Germans. My problems are new, my psychological horizon frighteningly comprehensive, my language bold and clear; there may well be no books written in German which are richer in ideas and more independent than mine."
+  },
+  {
+    "id": "d98b6269a4a8",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Is Wagner a human being at all? Is he not rather a disease? He contaminates everything he touches - he has made music sick."
+  },
+  {
+    "id": "1569dc23546e",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Science rushes headlong, without selectivity, without “taste,” at whatever is knowable, in the blind desire to know all at any cost. Philosophical thinking, on the other hand, is ever on the scent of those things which are most worth knowing, the great and the important insights."
+  },
+  {
+    "id": "34b7e487165c",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Diesen Ernsthaften diene zur Belehrung, dass ich von der Kunst als der höchsten Aufgabe und der eigentlich metaphysischen Thätigkeit dieses Lebens im Sinne des Mannes überzeugt bin, dem ich hier, als meinem erhabenen Vorkämpfer auf dieser Bahn, diese Schrift gewidmet haben will."
+  },
+  {
+    "id": "e238ae2fb864",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Der philosophische Mensch hat sogar das Vorgefühl, dass auch unter dieser Wirklichkeit, in der wir leben und sind, eine zweite ganz andre verborgen liege..."
+  },
+  {
+    "id": "96d13d962ccf",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Darum hat Lessing, der ehrlichste theoretische Mensch, es auszusprechen gewagt, dass ihm mehr am Suchen der Wahrheit als an ihr selbst gelegen sei..."
+  },
+  {
+    "id": "bb024b5f5d03",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Today as always, men fall into two groups: slaves and free men. Whoever does not have two-thirds of his day for himself, is a slave, whatever he may be: a statesman, a businessman, an official, or a scholar."
+  },
+  {
+    "id": "5893d74ae4b4",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "He who thinks a great deal is not suited to be a party man: he thinks his way through the party and out the other side too soon."
+  },
+  {
+    "id": "e0cff2a9939a",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Merchant and pirate...for a long period are one and the same person...Even to-day mercantile morality is really nothing but a refinement on piratical morality."
+  },
+  {
+    "id": "274202447449",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "A witticism is an epigram on the death of a feeling."
+  },
+  {
+    "id": "d1023e801ad0",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "Obit anus, abit onus."
+  },
+  {
+    "id": "5af7a369fe1c",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "The New Testament … must be in some way traceable to an Indian source:  its ethical system, its ascetic view of morality, its pessimism, and its Avatar, are all thoroughly Indian. It is its morality which places it in a position of such emphatic and essential antagonism to the Old Testament, so that the story of the Fall is the only possible point of connection between the two."
+  },
+  {
+    "id": "3b540ae4cbd4",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "We forfeit three-fourths of ourselves in order to be like other people."
+  },
+  {
+    "id": "15588fa3dfa5",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "If there is anything in the world that can really be called a man’s property, it is surely that which is the result of his mental activity."
+  },
+  {
+    "id": "1ec946f80d9d",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "Change alone is eternal, perpetual, immortal."
+  },
+  {
+    "id": "cd0c08b118f3",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "Just as the witticism brings two very different real objects under one concept, the pun brings two different concepts, by the assistance of accident, under one word."
+  },
+  {
+    "id": "d25c567ea8b7",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "The effect of music is so very much more powerful and penetrating than is that of the other arts, for these others speak only of the shadow, but music of the essence."
+  },
+  {
+    "id": "ba40c0302d2f",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "The method of viewing things which proceeds in accordance with the principle of sufficient reason is the rational method, and it alone is valid and of use in practical life and in science. The method which looks away from the content of this principle is the method of genius, which is only valid and of use in art."
+  },
+  {
+    "id": "dffed9183b66",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "For what is modesty but hypocritical humility, by means of which, in a world swelling with vile envy, a man seeks to beg pardon for his excellences and merits from those who have none? For whoever attributes no merit to himself because he really has none is not modest, but merely honest."
+  },
+  {
+    "id": "d189cd438c21",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "The composer reveals the innermost nature of the world, and expresses the profoundest wisdom in a language that his reasoning faculty does not understand, just as a magnetic somnambulist gives information about things of which she has no conception when she is awake. Therefore in the composer, more than in any other artist, the man is entirely separate and distinct from the artist."
+  },
+  {
+    "id": "dd56b14f9c9d",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "This actual world of what is knowable, in which we are and which is in us, remains both the material and the limit of our consideration."
+  },
+  {
+    "id": "65d8e35bdab8",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "Every time a man is begotten and born, the clock of human life is wound up anew to repeat once more its same old tune that has already been played innumerable times, movement by movement and measure by measure, with insignificant variations."
+  },
+  {
+    "id": "7c51b389c605",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see."
+  },
+  {
+    "id": "b83b6d848970",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "My body and my will are one."
+  },
+  {
+    "id": "ad79b8095207",
+    "philosopher": "Arthur Schopenhauer",
+    "tradition": "서양",
+    "quote": "We see in tragedy the noblest men, after a long conflict and suffering, finally renounce forever all the pleasure of life and the aims till then pursued so keenly, or cheerfully and willingly give up life itself."
+  }
+]
