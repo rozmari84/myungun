@@ -50,10 +50,40 @@ def pick_quote(quotes: list[dict], sent_ids: list[str]) -> tuple[dict, list[str]
     return chosen, sent_ids
 
 
+def translate_to_korean(text: str) -> str | None:
+    """구글 번역 비공식 엔드포인트로 영어 -> 한글 번역. 실패하면 None 반환."""
+    try:
+        resp = requests.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={
+                "client": "gtx",
+                "sl": "en",
+                "tl": "ko",
+                "dt": "t",
+                "q": text,
+            },
+            timeout=10,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        # data[0] 은 [번역조각, 원문조각, ...] 형태의 리스트들의 리스트
+        translated = "".join(chunk[0] for chunk in data[0] if chunk[0])
+        return translated.strip() or None
+    except Exception as e:
+        print(f"번역 실패 (원문만 전송): {e}")
+        return None
+
+
 def format_message(q: dict) -> str:
+    translated = translate_to_korean(q["quote"])
+
+    body = f"“{q['quote']}”"
+    if translated:
+        body += f"\n\n({translated})"
+
     return (
         f"🌅 오늘의 철학 한마디 ({q['tradition']} 철학)\n\n"
-        f"“{q['quote']}”\n\n"
+        f"{body}\n\n"
         f"— {q['philosopher']}"
     )
 
