@@ -50,28 +50,49 @@ def pick_quote(quotes: list[dict], sent_ids: list[str]) -> tuple[dict, list[str]
     return chosen, sent_ids
 
 
+def _translate_via_mymemory(text: str) -> str | None:
+    resp = requests.get(
+        "https://api.mymemory.translated.net/get",
+        params={"q": text, "langpair": "en|ko"},
+        timeout=10,
+    )
+    print(f"[번역 디버그: mymemory] status={resp.status_code}, body 앞부분={resp.text[:200]!r}")
+    resp.raise_for_status()
+    data = resp.json()
+    translated = data.get("responseData", {}).get("translatedText", "")
+    return translated.strip() or None
+
+
+def _translate_via_google(text: str) -> str | None:
+    resp = requests.get(
+        "https://translate.googleapis.com/translate_a/single",
+        params={"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text},
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            )
+        },
+        timeout=10,
+    )
+    print(f"[번역 디버그: google] status={resp.status_code}, body 앞부분={resp.text[:200]!r}")
+    resp.raise_for_status()
+    data = resp.json()
+    translated = "".join(chunk[0] for chunk in data[0] if chunk[0])
+    return translated.strip() or None
+
+
 def translate_to_korean(text: str) -> str | None:
-    """구글 번역 비공식 엔드포인트로 영어 -> 한글 번역. 실패하면 None 반환."""
-    try:
-        resp = requests.get(
-            "https://translate.googleapis.com/translate_a/single",
-            params={
-                "client": "gtx",
-                "sl": "en",
-                "tl": "ko",
-                "dt": "t",
-                "q": text,
-            },
-            timeout=10,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        # data[0] 은 [번역조각, 원문조각, ...] 형태의 리스트들의 리스트
-        translated = "".join(chunk[0] for chunk in data[0] if chunk[0])
-        return translated.strip() or None
-    except Exception as e:
-        print(f"번역 실패 (원문만 전송): {e}")
-        return None
+    """영어 -> 한글 번역. MyMemory를 우선 시도하고, 실패하면 구글 번역으로 재시도한다."""
+    for translator in (_translate_via_mymemory, _translate_via_google):
+        try:
+            result = translator(text)
+            if result:
+                return result
+        except Exception as e:
+            print(f"번역 실패({translator.__name__}): {type(e).__name__}: {e}")
+    return None
 
 
 def format_message(q: dict) -> str:
