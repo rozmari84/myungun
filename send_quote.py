@@ -14,6 +14,7 @@ import json
 import os
 import random
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -36,16 +37,32 @@ def save_json(path: Path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def today_tradition() -> str:
+    """날짜(한국시간 기준)에 따라 동양/서양을 하루씩 번갈아 고른다."""
+    kst_today = datetime.now(timezone(timedelta(hours=9))).date()
+    # 1970-01-01 부터의 일수가 짝수면 동양, 홀수면 서양
+    return "동양" if kst_today.toordinal() % 2 == 0 else "서양"
+
+
 def pick_quote(quotes: list[dict], sent_ids: list[str]) -> tuple[dict, list[str]]:
+    tradition = today_tradition()
     sent_set = set(sent_ids)
-    unsent = [q for q in quotes if q["id"] not in sent_set]
 
-    # 전부 다 보냈으면 한 바퀴 다 돈 것 -> 초기화하고 다시 시작
-    if not unsent:
-        sent_ids = []
-        unsent = quotes
+    # 1순위: 오늘 차례인 계열 중 아직 안 보낸 것
+    pool = [q for q in quotes if q["tradition"] == tradition and q["id"] not in sent_set]
 
-    chosen = random.choice(unsent)
+    if not pool:
+        # 오늘 계열을 한 바퀴 다 돌았으면, 그 계열의 보낸 기록만 비우고 다시 시작
+        same_tradition_ids = {q["id"] for q in quotes if q["tradition"] == tradition}
+        sent_ids = [qid for qid in sent_ids if qid not in same_tradition_ids]
+        pool = [q for q in quotes if q["tradition"] == tradition]
+
+    if not pool:
+        # 해당 계열 명언이 아예 없는 경우의 안전장치 (전체에서 고름)
+        print(f"경고: '{tradition}' 계열 명언이 없어 전체에서 고릅니다.")
+        pool = [q for q in quotes if q["id"] not in sent_set] or quotes
+
+    chosen = random.choice(pool)
     sent_ids = sent_ids + [chosen["id"]]
     return chosen, sent_ids
 
