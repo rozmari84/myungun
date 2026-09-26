@@ -852,6 +852,12 @@
     "quote": "Is Wagner a human being at all? Is he not rather a disease? He contaminates everything he touches - he has made music sick."
   },
   {
+    "id": "243a13a07e3f",
+    "philosopher": "Friedrich Nietzsche",
+    "tradition": "서양",
+    "quote": "Whoever wishes to justify &#91;Philosophy&#93; must show to what ends a healthy culture uses and has used philosophy. [...] Where could we find an instance of cultural pathology which philosophy restored to health? If philosophy ever manifested itself as helpful, redeeming, or prophylactic, it was in a healthy culture. The sick, it made even sicker."
+  },
+  {
     "id": "1569dc23546e",
     "philosopher": "Friedrich Nietzsche",
     "tradition": "서양",
@@ -894,99 +900,1059 @@
     "quote": "Merchant and pirate...for a long period are one and the same person...Even to-day mercantile morality is really nothing but a refinement on piratical morality."
   },
   {
-    "id": "274202447449",
-    "philosopher": "Friedrich Nietzsche",
+    "id": "2f8d44187c28",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "A witticism is an epigram on the death of a feeling."
+    "quote": "The reason I cannot really say that I positively enjoy nature is that I do not quite realize what it is that I enjoy. A work of art, on the other hand, I can grasp. I can — if I may put it this way — find that Archimedian point, and as soon as I have found it, everything is readily clear for me. Then I am able to pursue this one main idea and see how all the details serve to illuminate it."
   },
   {
-    "id": "d1023e801ad0",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "a5297934ea9d",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "Obit anus, abit onus."
+    "quote": "It will be easy for us once we receive the ball of yarn from Ariadne (love) and then go through all the mazes of the labyrinth (life) and kill the monster. But how many are there who plunge into life (the labyrinth) without taking that precaution?"
   },
   {
-    "id": "5af7a369fe1c",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "eb8491b63ccb",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "The New Testament … must be in some way traceable to an Indian source:  its ethical system, its ascetic view of morality, its pessimism, and its Avatar, are all thoroughly Indian. It is its morality which places it in a position of such emphatic and essential antagonism to the Old Testament, so that the story of the Fall is the only possible point of connection between the two."
+    "quote": "What I really need is to get clear about what I must do, not what I must know, except insofar as knowledge must precede every act. What matters is to find a purpose, to see what it really is that God wills that I shall do; the crucial thing is to find a truth which is truth for me, to find the idea for which I am willing to live and die."
   },
   {
-    "id": "3b540ae4cbd4",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "f37e2d427cdf",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "We forfeit three-fourths of ourselves in order to be like other people."
+    "quote": "I have just now come from a party where I was its life and soul; witticisms streamed from my lips, everyone laughed and admired me, but I went away — yes, the dash should be as long as the radius of the earth's orbit ——————————— and wanted to shoot myself."
   },
   {
-    "id": "15588fa3dfa5",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "cd127d19c1c3",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "If there is anything in the world that can really be called a man’s property, it is surely that which is the result of his mental activity."
+    "quote": "There are many people who reach their conclusions about life like schoolboys; they cheat their master by copying the answer out of a book without having worked out the sum for themselves."
   },
   {
-    "id": "1ec946f80d9d",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "3bf4aacc021e",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "Change alone is eternal, perpetual, immortal."
+    "quote": "God creates out of nothing. Wonderful you say. Yes, to be sure, but He does what is still more wonderful: He makes saints out of sinners."
   },
   {
-    "id": "cd0c08b118f3",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "b9c2378d43e2",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "Just as the witticism brings two very different real objects under one concept, the pun brings two different concepts, by the assistance of accident, under one word."
+    "quote": "Knowledge can in part be set aside, and one can then go further in order to collect new; the natural scientist can set aside insects and flowers and then go further, but if the existing person sets aside the decision in existence, it is eo ipso lost, and he is changed."
   },
   {
-    "id": "d25c567ea8b7",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "f07179248d34",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "The effect of music is so very much more powerful and penetrating than is that of the other arts, for these others speak only of the shadow, but music of the essence."
+    "quote": "Seek first God's Kingdom, that is, become like the lilies and the birds, become perfectly silent — then shall the rest be added unto you."
   },
   {
-    "id": "ba40c0302d2f",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "3605f80d4c9f",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "The method of viewing things which proceeds in accordance with the principle of sufficient reason is the rational method, and it alone is valid and of use in practical life and in science. The method which looks away from the content of this principle is the method of genius, which is only valid and of use in art."
+    "quote": "It belongs to the imperfection of everything human that man can only attain his desire by passing through its opposite."
   },
   {
-    "id": "dffed9183b66",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "c6c53afb35a3",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "For what is modesty but hypocritical humility, by means of which, in a world swelling with vile envy, a man seeks to beg pardon for his excellences and merits from those who have none? For whoever attributes no merit to himself because he really has none is not modest, but merely honest."
+    "quote": "To stand on one leg and prove God's existence is a very different thing from going on one's knees and thanking Him."
   },
   {
-    "id": "d189cd438c21",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "43737ce58cce",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "The composer reveals the innermost nature of the world, and expresses the profoundest wisdom in a language that his reasoning faculty does not understand, just as a magnetic somnambulist gives information about things of which she has no conception when she is awake. Therefore in the composer, more than in any other artist, the man is entirely separate and distinct from the artist."
+    "quote": "What is asked of a man that he may be able to pray for his enemies? To pray for one's enemies is the hardest thing of all. That is why it exasperates us so much in our present day situation."
   },
   {
-    "id": "dd56b14f9c9d",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "9710e45b0de9",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "This actual world of what is knowable, in which we are and which is in us, remains both the material and the limit of our consideration."
+    "quote": "Consciousness presupposes itself, and asking about its origin is an idle and just as sophistical a question as that old one, \"What came first, the fruit-tree or the stone? Wasn't there a stone out of which came the first fruit-tree? Wasn't there a fruit-tree from which came the first stone? Journals and Papers, Hannay, 1996 1843 IVA49"
   },
   {
-    "id": "65d8e35bdab8",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "c0e0f84d36b6",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "Every time a man is begotten and born, the clock of human life is wound up anew to repeat once more its same old tune that has already been played innumerable times, movement by movement and measure by measure, with insignificant variations."
+    "quote": "Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglænds. Men derover glemmer man den anden Sætning, at det maa leves forlænds."
   },
   {
-    "id": "7c51b389c605",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "a4708ed9da15",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see."
+    "quote": "Death cannot explain itself. The earnestness consists precisely in this, that the observer must explain it to himself."
   },
   {
-    "id": "b83b6d848970",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "75e9f3ca5280",
+    "philosopher": "Søren Kierkegaard",
     "tradition": "서양",
-    "quote": "My body and my will are one."
+    "quote": "Since my earliest childhood a barb of sorrow has lodged in my heart. As long as it stays I am ironic — if it is pulled out I shall die."
   },
   {
-    "id": "ad79b8095207",
-    "philosopher": "Arthur Schopenhauer",
+    "id": "f56c8eac1106",
+    "philosopher": "Jean-Paul Sartre",
     "tradition": "서양",
-    "quote": "We see in tragedy the noblest men, after a long conflict and suffering, finally renounce forever all the pleasure of life and the aims till then pursued so keenly, or cheerfully and willingly give up life itself."
+    "quote": "Imagination is not an empirical or superadded power of consciousness, it is the whole of consciousness as it realizes its freedom."
+  },
+  {
+    "id": "7503d964e6a3",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "He was free, free in every way, free to behave like a fool or a machine, free to accept, free to refuse, free to equivocate; to marry, to give up the game, to drag this death weight about with him for years to come. He could do what he liked, no one had the right to advise him, there would be for him no Good or Evil unless he thought them into being."
+  },
+  {
+    "id": "b10363292e84",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "He yawned. He had finished the day and he had also finished with his youth. Various well-bred moralities had already discreetly offered him their services: disillusioned epicureanism, smiling tolerance, resignation, common sense stoicism - all the aids whereby a man may savour, minute by minute, like a connoisseur, the failure of a life."
+  },
+  {
+    "id": "daa12b350606",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "What then did you expect when you unbound the gag that muted those black mouths? That they would chant your praises? Did you think that when those heads that our fathers had forcibly bowed down to the ground were raised again, you would find adoration in their eyes?"
+  },
+  {
+    "id": "3c1fda831a68",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "Every age has its own poetry; in every age the circumstances of history choose a nation, a race, a class to take up the torch by creating situations that can be expressed or transcended only through poetry."
+  },
+  {
+    "id": "0c8ff86d8bad",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "Fascism is not defined by the number of its victims, but by the way it kills them."
+  },
+  {
+    "id": "ffb51def2cdb",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "Our responsibility is much greater than we might have supposed, because it involves all mankind."
+  },
+  {
+    "id": "4a3028de191c",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "To choose this or that is to affirm at the same time the value of what we choose, because we can never choose evil. We always choose the good, and nothing can be good for us without being good for all."
+  },
+  {
+    "id": "e72180080e86",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "If literature isn't everything, it's not worth a single hour of someone's trouble."
+  },
+  {
+    "id": "7bead5c7cef3",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "A writer who takes political, social or literary positions must act only with the means that are his. These means are the written words."
+  },
+  {
+    "id": "6089b15017c7",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "What I see is teeming cohesion, contained dispersal.... For him, to sculpt is to take the fat off space."
+  },
+  {
+    "id": "70381a32fc1e",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "She believed in nothing; only her skepticism kept her from being an atheist."
+  },
+  {
+    "id": "80cb57c9bd9d",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "I hate victims who respect their executioners."
+  },
+  {
+    "id": "a478569ba9e3",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "You know how much I admire Che Guevara. In fact, I believe that the man was not only an intellectual but also the most complete human being of our age: as a fighter and as a man, as a theoretician who was able to further the cause of revolution by drawing his theories from his personal experience in battle."
+  },
+  {
+    "id": "b0816489f744",
+    "philosopher": "Jean-Paul Sartre",
+    "tradition": "서양",
+    "quote": "When you live alone you no longer know what it is to tell a story: the plausible disappears at the same time as the friends. You let events flow by too: you suddenly see people appear who speak and then go away; you plunge into stories of which you can't make head or tail: you'd make a terrible witness."
+  },
+  {
+    "id": "7c8809e9bfc8",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Don't let them tell us stories. Don't let them say of the man sentenced to death \"He is going to pay his debt to society,\" but: \"They are going to cut off his head.\" It looks like nothing. But it does make a little difference. And then there are people who prefer to look their fate in the eye."
+  },
+  {
+    "id": "6692add8d2f3",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Nous nous trompons toujours deux fois sur ceux que nous aimons: d'abord à leur avantage, puis à leur désavantage."
+  },
+  {
+    "id": "4e071168bd92",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Perhaps we cannot prevent this world from being a world in which children are tortured. But we can reduce the number of tortured children. And if you don't help us, who else in the world can help us do this?"
+  },
+  {
+    "id": "8dbecb8ae1a4",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "We have exiled beauty; the Greeks took up arms for her."
+  },
+  {
+    "id": "f3d33b0ce5a4",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "We turn our backs on nature; we are ashamed of beauty. Our wretched tragedies have a smell of the office clinging to them, and the blood that trickles from them is the color of printer's ink."
+  },
+  {
+    "id": "0c6ecb964073",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Man cannot do without beauty, and this is what our era pretends to want to disregard. It steels itself to attain the absolute and authority; it wants to transfigure the world before having exhausted it, to set it to rights before having understood it. Whatever it may say, our era is deserting this world."
+  },
+  {
+    "id": "67d8829b663c",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Toute idée fausse finit dans le sang, mais il s'agit toujours du sang des autres. C'est ce qui explique que certains de nos philosophes se sentent à l'aise pour dire n'importe quoi."
+  },
+  {
+    "id": "8aa0e8b6555d",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "One does not decide the truth of a thought according to whether it is right-wing or left-wing."
+  },
+  {
+    "id": "e73f78e75d12",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "O light! This is the cry of all the characters of ancient drama brought face to face with their fate. This last resort was ours, too, and I knew it now. In the middle of winter I at last discovered that there was in me an invincible summer."
+  },
+  {
+    "id": "674c1b9c3f2a",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "With rebellion, awareness is born."
+  },
+  {
+    "id": "6a1f20f43967",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "A living man can be enslaved and reduced to the historic condition of an object. But if he dies in refusing to be enslaved, he reaffirms the existence of another kind of human nature which refuses to be classified as an object."
+  },
+  {
+    "id": "aa3573dfd127",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "There is not love of life without despair about life."
+  },
+  {
+    "id": "1e9c48543f4d",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Accepting the absurdity of everything around us is one step, a necessary experience: it should not become a dead end. It arouses a revolt that can become fruitful."
+  },
+  {
+    "id": "e30943b82697",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Knowing that certain nights whose sweetness lingers will keep returning to the earth and sea after we are gone, yes, this helps us to die."
+  },
+  {
+    "id": "888689126b12",
+    "philosopher": "Albert Camus",
+    "tradition": "서양",
+    "quote": "Life continues, and some mornings, weary of the noise, discouraged by the prospect of the interminable work to keep after, sickened also by the madness of the world that leaps at you from the newspaper, finally convinced that I will not be equal to it and that I will disappoint everyone—all I want to do is sit down and wait for evening. This is what I feel like, and sometimes I yield to it."
+  },
+  {
+    "id": "170a19af9538",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "I do wish I believed in the life eternal, for it makes me quite miserable to think man is merely a kind of machine endowed, unhappily for himself, with consciousness."
+  },
+  {
+    "id": "e89994a91dec",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt."
+  },
+  {
+    "id": "99844c5d37be",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "Most people would sooner die than think; in fact, they do so."
+  },
+  {
+    "id": "cd3ea48c6e13",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "I am looking forward very much to getting back to Cambridge, and being able to say what I think and not to mean what I say: two things which at home are impossible. Cambridge is one of the few places where one can talk unlimited nonsense and generalities without anyone pulling one up or confronting one with them when one says just the opposite the next day."
+  },
+  {
+    "id": "09a9d35eda22",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "Thee will find out in time that I have a great love of professing vile sentiments, I don't know why, unless it springs from long efforts to avoid priggery."
+  },
+  {
+    "id": "61b53bfc6ed0",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "What a monstrous thing that a University should teach journalism! I thought that was only done at Oxford. This respect for the filthy multitude is ruining civilisation."
+  },
+  {
+    "id": "393c0b784a2c",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "Only in thought is man a God; in action and desire we are the slaves of circumstance."
+  },
+  {
+    "id": "03638b27750f",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "Philosophy seems to me on the whole a rather hopeless business."
+  },
+  {
+    "id": "30c05df783ce",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "The fact that all Mathematics is Symbolic Logic is one of the greatest discoveries of our age; and when this fact has been established, the remainder of the principles of mathematics consists in the analysis of Symbolic Logic itself."
+  },
+  {
+    "id": "343b79ef114d",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "I may as well say at once that I do not distinguish between inference and deduction. What is called induction appears to me to be either disguised deduction or a mere method of making plausible guesses."
+  },
+  {
+    "id": "70ca38d31fe9",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "What does not exist must be something, or it would be meaningless to deny its existence; and hence we need the concept of being, as that which belongs even to the non-existent."
+  },
+  {
+    "id": "0dc63b92905b",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "Arithmetic must be discovered in just the same sense in which Columbus discovered the West Indies, and we no more create numbers than he created the Indians."
+  },
+  {
+    "id": "9fea8f7821be",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "I have been merely oppressed by the weariness and tedium and vanity of things lately: nothing stirs me, nothing seems worth doing or worth having done: the only thing that I strongly feel worth while would be to murder as many people as possible so as to diminish the amount of consciousness in the world. These times have to be lived through: there is nothing to be done with them."
+  },
+  {
+    "id": "ca85089fb400",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "A logical theory may be tested by its capacity for dealing with puzzles, and it is a wholesome plan, in thinking about logic, to stock the mind with as many puzzles as possible, since these serve much the same purpose as is served by experiments in physical science."
+  },
+  {
+    "id": "983c864350ad",
+    "philosopher": "Bertrand Russell",
+    "tradition": "서양",
+    "quote": "All's well that ends well; which is the epitaph I should put on my tombstone if I were the last man left alive."
+  },
+  {
+    "id": "c09002b4877f",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "For as old age is that period of life most remote from infancy, who does not see that old age in this universal man ought not to be sought in the times nearest his birth, but in those most remote from it?"
+  },
+  {
+    "id": "a7c4b56b45ba",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte."
+  },
+  {
+    "id": "aaaf67904cb5",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "People almost invariably arrive at their beliefs not on the basis of proof but on the basis of what they find attractive."
+  },
+  {
+    "id": "2aa4b30195c7",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "Mahomet established a religion by putting his enemies to death; Jesus Christ, by commanding his followers to lay down their own lives."
+  },
+  {
+    "id": "a95afb34ab1e",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "FEU. Dieu d'Abraham, Dieu d'Isaac, Dieu de Jacob, non des philosophes et savants. Certitude. Certitude. Sentiment. Joie. Paix."
+  },
+  {
+    "id": "09f2c8efb2cc",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "In order to enter into a real knowledge of your condition, consider it in this image: A man was cast by a tempest upon an unknown island, the inhabitants of which were in trouble to find their king, who was lost; and having a strong resemblance both in form and face to this king, he was taken for him, and acknowledged in this capacity by all the people."
+  },
+  {
+    "id": "1326ac42a052",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "Thus he had a double thought: the one by which he acted as king, the other by which he recognized his true state, and that it was accident alone that had placed him in his present condition."
+  },
+  {
+    "id": "2f39eb2abb11",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "Do not imagine that it is less an accident by which you find yourself master of the wealth which you possess, than that by which this man found himself king."
+  },
+  {
+    "id": "72fe56c6432c",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "If it had pleased them [the legislators] to order that this wealth, after having been possessed by fathers during their life, should return to the republic after their death, you would have no reason to complain of it."
+  },
+  {
+    "id": "17f8bc9c2f81",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "The whole title by which you possess your property, is not a title of nature but of a human institution."
+  },
+  {
+    "id": "a2b9386cec40",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "This right which you have, is not founded any more than his upon any quality or any merit in yourself which renders you worthy of it. Your soul and your body are, of themselves, indifferent to the state of boatman or that of duke; and there is no natural bond that attaches them to one condition rather than to another."
+  },
+  {
+    "id": "445a14762fc5",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "If you act externally with men in conformity with your rank, you should recognize, by a more secret but truer thought, that you have nothing naturally superior to them."
+  },
+  {
+    "id": "60d2de17b141",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "If the public thought elevates you above the generality of men, let the other humble you, and hold you in a perfect equality with all mankind, for this is your natural condition."
+  },
+  {
+    "id": "8b9945302077",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "Do not mistake yourself by believing that your being has something in it more exalted than that of others."
+  },
+  {
+    "id": "4a698741cef0",
+    "philosopher": "Blaise Pascal",
+    "tradition": "서양",
+    "quote": "What would you say of that man who was made king by the error of the people, if he had so far forgotten his natural condition as to imagine that this kingdom was due to him, that he deserved it, and that it belonged to him of right? You would marvel at his stupidity and folly. But is there less in the people of rank who live in so strange a forgetfulness of their natural condition?"
+  },
+  {
+    "id": "036af219e730",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "On parle toujours mal quand on n'a rien à dire."
+  },
+  {
+    "id": "6a63bfe04d4f",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "L'homme doit être content, dit-on; mais de quoi?"
+  },
+  {
+    "id": "580db6080897",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "Le public est une bête féroce: il faut l'enchaîner ou la fuir."
+  },
+  {
+    "id": "0c0ac06a71ce",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "L'amour est de toutes les passions la plus forte, parce qu'elle attaque à la fois la tête, le cœur et le corps."
+  },
+  {
+    "id": "afc7d4baf6c2",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "If I had had more time, this letter would have been shorter."
+  },
+  {
+    "id": "906acd054a32",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "La vertu s'avilit à se justifier."
+  },
+  {
+    "id": "f2d99e6f9fd7",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "On doit des égards aux vivants; on ne doit aux morts que la vérité."
+  },
+  {
+    "id": "6e7cf43c9f68",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "C'est un poids bien pesant qu'un nom trop tôt fameux."
+  },
+  {
+    "id": "a30fc17c23f9",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "L'homme est libre au moment qu'il veut l'être."
+  },
+  {
+    "id": "cc8ffbae2757",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "Les mortels sont égaux; ce n'est pas la naissance,C'est la seule vertu qui fait la différence."
+  },
+  {
+    "id": "14bb70bfc9a6",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "Les anciens Romains élevaient des prodiges d'architecture pour faire combattre des bêtes."
+  },
+  {
+    "id": "26a125463bc5",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "If there were only one religion in England there would be danger of despotism, if there were two they would cut each other's throats, but there are thirty, and they live in peace and happiness."
+  },
+  {
+    "id": "5d31fa247382",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "Où est l'amitié est la patrie."
+  },
+  {
+    "id": "6ee22af52436",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "Tous les genres sont bons, hors le genre ennuyeux."
+  },
+  {
+    "id": "01c53090171e",
+    "philosopher": "Voltaire",
+    "tradition": "서양",
+    "quote": "Le superflu, chose très nécessaire."
+  },
+  {
+    "id": "73a2983d04ac",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "But there is only one thing which gathers people into seditious commotion, and that is oppression."
+  },
+  {
+    "id": "451f242ba9f2",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "To love truth for truth's sake is the principal part of human perfection in this world, and the seed-plot of all other virtues."
+  },
+  {
+    "id": "a2f9d6b8d7b8",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "Sophistry is only fit to make men more conceited in their ignorance."
+  },
+  {
+    "id": "7e26f26bc42d",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "This life affords no solid satisfaction, but in the consciousness of having done well, and the hopes of another life."
+  },
+  {
+    "id": "8cd1751f4ad8",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "New opinions are always suspected, and usually opposed, without any other reason but because they are not already common."
+  },
+  {
+    "id": "92a602d921b3",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "I have always thought the actions of men the best interpreters of their thoughts."
+  },
+  {
+    "id": "7da4730ca6c3",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "There cannot any one moral Rule be propos'd, whereof a Man may not justly demand a Reason."
+  },
+  {
+    "id": "db7efc09c170",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "No man's knowledge here can go beyond his experience."
+  },
+  {
+    "id": "4c854b540f54",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "Preference of vice to virtue, a manifest wrong judgment."
+  },
+  {
+    "id": "fd5a1c00dac5",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "The boundaries of the species, whereby men sort them, are made by men."
+  },
+  {
+    "id": "704b3e5f9594",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "Since sounds have no natural connection with our ideas ... the doubtfulness and uncertainty of their signification ... has its cause more in the ideas they stand for than in any incapacity there is in one sound more than another to signify any idea."
+  },
+  {
+    "id": "c9ee457e6913",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "He that uses his words loosely and unsteadily will either not be minded or not understood."
+  },
+  {
+    "id": "88c63837b4c5",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "I doubt not, but from self-evident Propositions, by necessary Consequences, as incontestable as those in Mathematics, the measures of right and wrong might be made out."
+  },
+  {
+    "id": "93373502e51b",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "He that knows anything, knows this, in the first place, that he need not seek long for instances of his ignorance.\""
+  },
+  {
+    "id": "f107da1b71af",
+    "philosopher": "John Locke",
+    "tradition": "서양",
+    "quote": "False and doubtful positions, relied upon as unquestionable maxims, keep those who build on them in the dark from truth. Such are usually the prejudices imbibed from education, party, reverence, fashion, interest, et cetera."
+  },
+  {
+    "id": "6631cd10ee1e",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "He that in his studies wholly applies himself to labour and exercise, and neglects meditation, loses his time, and he that only applies himself to meditation, and neglects labour and exercise, only wanders and loses himself."
+  },
+  {
+    "id": "ac828e47a620",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "Men do not stumble over mountains, but over molehills"
+  },
+  {
+    "id": "8a1ffdc839fb",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "Man has three ways of acting wisely. First, on meditation; that is the noblest. Secondly, on imitation; that is the easiest. Thirdly, on experience; that is the bitterest."
+  },
+  {
+    "id": "880718c6d63a",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "It is not truth that makes man great, but man that makes truth great."
+  },
+  {
+    "id": "5f0e8d19e7d4",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "It is more shameful to distrust our friends than to be deceived by them."
+  },
+  {
+    "id": "3a11f56df76c",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "The more man meditates upon good thoughts, the better will be his world and the world at large."
+  },
+  {
+    "id": "a186fd9180a9",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "Follow the seasons of Ha,Ride in the state carriage of Yau,Wear the ceremonial cap of Chan,Let the music be the Shiu with its pantomimes."
+  },
+  {
+    "id": "3893b6a34379",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "學而時習之、不亦說乎。有朋自遠方來、不亦樂乎。人不知而不慍、不亦君子乎。"
+  },
+  {
+    "id": "dec55b0ae195",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "弟子，入則孝，出則弟，謹而信，凡愛眾，而親仁。行有餘力，則以學文。"
+  },
+  {
+    "id": "1df298860494",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "主忠信。毋友不如己者。過，則勿憚改。"
+  },
+  {
+    "id": "fd8d1fff5a06",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "道千乘之國，敬事而信，節用而愛人，使民以時。"
+  },
+  {
+    "id": "ebd489e44f97",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "君子食無求飽，居無求安，敏於事而慎於言，就有道而正焉，可謂好學也已。"
+  },
+  {
+    "id": "02f1be181a93",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "君子不重則不威，學則不固。主忠信。無友不如己者。過則勿憚改。"
+  },
+  {
+    "id": "0979a0e7158d",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "【第一章】子曰、爲政以德、譬如北辰、居其所、而眾星共之。"
+  },
+  {
+    "id": "f17b3b479cdb",
+    "philosopher": "Confucius",
+    "tradition": "동양",
+    "quote": "吾十有五而志於學，三十而立，四十而不惑，五十而知天命，六十而耳順，七十而从心所欲，不逾矩。"
+  },
+  {
+    "id": "923679dce75d",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "The way you can go isn't the real way. The name you can say isn't the real name.   Heaven and earth begin in the unnamed: name's the mother of the ten thousand things. So the unwanting soul sees what's hidden, and the ever-wanting soul sees only what it wants. Two things, one origin, but different in name, whose identity is mystery. Mystery of all mysteries! The door to the hidden."
+  },
+  {
+    "id": "135f00d955f6",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "A way can be a guide but not a fixed pathnames can be given but not permanent labelsNonbeing is called the beginning of heaven and earthbeing is called the mother of all thingsAlways passionless thereby observe the subtleever intent thereby observe the apparentThese two come from the same source but differ in nameboth are considered mysteriesThe mystery of mysteries is the gateway of marvels"
+  },
+  {
+    "id": "7dd8bdb0623c",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "The Tao is like a well:  used but never used up.  It is like the eternal void:  filled with infinite possibilities.  It is hidden but always present.  I don't know who gave birth to it.  It is older than God."
+  },
+  {
+    "id": "177871626c41",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "The Tao is like a bellows:  it is empty yet infinitely capable.  The more you use it, the more it produces;   the more you talk of it, the less you understand."
+  },
+  {
+    "id": "213107431657",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "The Tao is called the Great Mother:  empty yet inexhaustible,  it gives birth to infinite worlds."
+  },
+  {
+    "id": "64b9b998e271",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "The universe is deathless; Is deathless because, having no finite self, it stays infinite. A sound man by not advancing himself stays the further ahead of himself, By not confining himself to himself sustains himself outside himself: By never being an end in himself he endlessly becomes himself."
+  },
+  {
+    "id": "d7060a5528b6",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "Thirty spokes unite at the single hub;It is the empty space which makes the wheel useful.Mold clay to form a bowl;It is the empty space which makes the bowl useful.Cut out windows and doors;It is the empty space which makes the room useful."
+  },
+  {
+    "id": "98ef1934ceda",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "A leader is best when people barely know that he exists,  not so good when people obey and acclaim him, worst when they despise him. Fail to honor people, They fail to honor you. But of a good leader, who talks little, when his work is done, his aims fulfilled, they will all say, \"We did this ourselves.\""
+  },
+  {
+    "id": "cfb70c602755",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "Since before time and space were, the Tao is. It is beyond is and is not. How do I know this is true? I look inside myself and see."
+  },
+  {
+    "id": "d9e7d83d7dbe",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "There is a thing inherent and natural,  Which existed before heaven and earth.  Motionless and fathomless,  It stands alone and never changes;  It pervades everywhere and never becomes exhausted.  It may be regarded as the Mother of the Universe. I do not know its name. If I am forced to give it a name, I call it Tao, and I name it as supreme."
+  },
+  {
+    "id": "62b8f9afb06b",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "A good traveler has no fixed plans  and is not intent upon arriving.   A good artist lets his intuition  lead him wherever it wants.  A good scientist has freed himself of concepts  and keeps his mind open to what is.  Thus the Master is available to all people  and doesn't reject anyone.  He is ready to use all situations  and doesn't waste anything.  This is called embodying the light."
+  },
+  {
+    "id": "3e705557c01b",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "Knowing others is intelligence;  knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power."
+  },
+  {
+    "id": "240f7d7e3221",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "Scholars of the highest class, when they hear about the Tao, take it and practice it earnestly.  Scholars of the middle class, when they hear of it, take it half earnestly.  Scholars of the lowest class, when they hear of it, laugh at it. Without the laughter, there would be no Tao."
+  },
+  {
+    "id": "b4a10e7530da",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "He who knows that enough is enough will always have enough."
+  },
+  {
+    "id": "1d68def85373",
+    "philosopher": "Laozi",
+    "tradition": "동양",
+    "quote": "By letting it go it all gets done. The world is won by those who let it go. But when you try and try, the world is beyond the winning."
+  },
+  {
+    "id": "e35c7eeb983d",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "The great bird rises on the wind to a height of a thousand miles. What does it see from on high there in the blue? Is it droves of wild horses galloping? Is it primeval matter whirling in atomic dust? Is it the exhalations that give birth to all things? Is it the blue of the sky itself, or is it only the colour of infinite distance?"
+  },
+  {
+    "id": "51355134005e",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Great wisdom is generous; petty wisdom is contentious. Great speech is impassioned, small speech cantankerous."
+  },
+  {
+    "id": "47a30677760b",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "We cling to our own point of view, as though everything depended on it. Yet our opinions have no permanence; like autumn and winter, they gradually pass away."
+  },
+  {
+    "id": "154fff021b06",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Right is not right; so is not so. If right were really right it would differ so clearly from not right that there would be no need for argument. If so were really so, it would differ so clearly from not so that there would be no need for argument."
+  },
+  {
+    "id": "c0e82ac36695",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Forget the years, forget distinctions. Leap into the boundless and make it your home!"
+  },
+  {
+    "id": "46ac14d53e95",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "昔者庄周梦为蝴蝶，栩栩然蝴蝶也，自喻适志与，不知周也。俄然觉，则戚戚然周也。不知周之梦为蝴蝶与，蝴蝶之梦为周与？周与蝴蝶则必有分矣。此之谓物化。"
+  },
+  {
+    "id": "81b3e9e74ed3",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "昔者莊周夢為蝴蝶，栩栩然蝴蝶也，自喻適志與，不知周也。俄然覺，則戚戚然周也。不知周之夢為蝴蝶與，蝴蝶之夢為周與？週與蝴蝶則必有分矣。此之謂物化。 (traditional)"
+  },
+  {
+    "id": "2c8285103ce1",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "All men know the utility of useful things; but they do not know the utility of futility."
+  },
+  {
+    "id": "8b570ccbf1a2",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "He who knows what is of God and who knows what is of Man has reached indeed the height (of wisdom)."
+  },
+  {
+    "id": "c1ef3b59f7af",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "He who pursues fame at the risk of losing his self is not a scholar."
+  },
+  {
+    "id": "6b10278b49a5",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Resolve your mental energy into abstraction, your physical energy into inaction. Allow yourself to fall in with the natural order of phenomena, without admitting the element of self,—and the empire will be governed."
+  },
+  {
+    "id": "5fd7c03e2098",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Those who seek to satisfy the mind of man by hampering it with ceremonies and music and affecting charity and devotion have lost their original nature."
+  },
+  {
+    "id": "cbdac976a649",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Away then with wisdom and knowledge, and great robbers will disappear!"
+  },
+  {
+    "id": "1a9d7e2fccaf",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "For all men strive to grasp what they do not know, while none strive to grasp what they already know; and all strive to discredit what they do not excel in, while none strive to discredit what they do excel in. This is why there is chaos."
+  },
+  {
+    "id": "0b0f74e28959",
+    "philosopher": "Zhuangzi",
+    "tradition": "동양",
+    "quote": "Cherish that which is within you, and shut off that which is without; for much knowledge is a curse."
+  },
+  {
+    "id": "b91e3acbebeb",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "“The tongue is like a sharp knife, it kills without drawing blood; words in the hands of someone skilled can do more damage than a weapon in the hands of a warrior.”"
+  },
+  {
+    "id": "26422115f165",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "“Well, Lord, is the soul the same as the body, is the soul one thing and the body another?”"
+  },
+  {
+    "id": "0df3ae6725d7",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Just as a bird, wherever it goes, flies with its wings as its only burden, so too, the bhikkhu becomes content with robes to protect his body and with almsfood to maintain his stomach, and wherever he goes he sets out taking only these with him. Possessing this aggregate of noble virtue, he experiences within himself a bliss that is blameless."
+  },
+  {
+    "id": "c6530b4af3c2",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Any kind of material form whatever, whether past, future, or present, internal or external, gross or subtle, inferior or superior, far or near, all material form should be seen as it actually is with proper wisdom thus: “This is not mine, this I am not, this is not my self.”"
+  },
+  {
+    "id": "1c8d35288e99",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Rahula, develop meditation that is like water. ... Just as people wash clean things and dirty things, excrement, urine, spittle, pus, and blood in water, and the water is not horrified, humiliated, and disgusted because of that, so too, Rahula, develop meditation that is like water."
+  },
+  {
+    "id": "7e6240c859b2",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Just as the eldest son of a wheel-turning monarch properly keeps in motion the wheel of sovereignty set in motion by his father, so do you, Sāriputta, properly keep in motion the Wheel of Dhamma set in motion by me."
+  },
+  {
+    "id": "3bd81988537a",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison."
+  },
+  {
+    "id": "134fd45bf61b",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "As rain breaks through an ill-thatched house, passion will break through an unreflecting mind."
+  },
+  {
+    "id": "169ddc8d35ed",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "He abused me, he struck me, he overcame me, he robbed me' -- in those who do not harbor such thoughts hatred will cease."
+  },
+  {
+    "id": "53d0fa417429",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "No one saves us but ourselves,  No one can and no one may.  We ourselves must walk the path  Buddhas merely teach the way.  By ourselves is evil done,  By ourselves is pain endured,  By ourselves we cease from wrong,  By ourselves become we pure."
+  },
+  {
+    "id": "09ca6fe6013d",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "That bhikkhu who has cut off passion in its entirety, like one picking a lotus, both flower and stalk, leaves this shore and the far shore as a snake leaves its old worn-out skin."
+  },
+  {
+    "id": "af099ee8d183",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Leaving behind son and wife, and father and mother, and wealth and grain, and relatives, and sensual pleasures to the limit, one should wander solitary as a rhinoceros horn."
+  },
+  {
+    "id": "82da25d915d3",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "The brahman Kasibhāradvāja addressed the Blessed One with a verse."
+  },
+  {
+    "id": "e77a20dbe734",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Not by birth does one become an outcaste, not by birth does one become a brahman. By one's action one becomes an outcaste, by one's action one becomes a brahman."
+  },
+  {
+    "id": "6013646803b6",
+    "philosopher": "Gautama Buddha",
+    "tradition": "동양",
+    "quote": "Faith is the best wealth for a man in this world. Righteousness when well practised brings happiness. Truth is the sweetest of flavours. They say the life of one living by wisdom is the best."
+  },
+  {
+    "id": "37a83c002615",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "The Law(道, Way) is Huge and Shapeless, its Moral extends everywhere."
+  },
+  {
+    "id": "c202716d06eb",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "When all within the four seas have been put in their proper places, [the sage] sits in darkness to observe the light. When those to his left and right have taken their places, he opens the gate to face the world. He changes nothing, alters nothing, but acts with the two handles of reward and punishment, acts and never ceases: this is what is called walking the path of principle."
+  },
+  {
+    "id": "c476fe55d89c",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "In dealing with those who share his bed, the enlightened ruler may enjoy their beauty but should not listen to their special pleas..."
+  },
+  {
+    "id": "a9e8b5c34c20",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "No state is forever strong or forever weak. If those who uphold the law are strong, the state will be strong; if they are weak, the state will be weak."
+  },
+  {
+    "id": "8b090589e745",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "A truly enlightened ruler uses the law to select men for him; he does not choose them himself. He uses the law to weigh their merits; he does not attempt to judge them for himself."
+  },
+  {
+    "id": "8cd3fb492e25",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "The way is the beginning of all beings and the measure of right and wrong."
+  },
+  {
+    "id": "a03bb540de93",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "From your place of darkness observe the defects of others. See but do not appear to see; listen but do not seem to listen; know but do not let it be known that you know. When you perceive the trend of a man's words, do not change them, do not correct them, but examine them and compare them with the results."
+  },
+  {
+    "id": "528f5b070731",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "Take hold of the handles of government carefully and grip them tightly. Destroy all hope, smash all intention of wresting them from you; allow no man to covet them."
+  },
+  {
+    "id": "b91034dcdcbf",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "Be immeasurably great, be unfathomably deep; make certain that names and results tally, examine laws and customs, punish those who act willfully, and the state will be without traitors."
+  },
+  {
+    "id": "c021a5f36419",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "The way of the ruler is to make certain that, if what a minister says beforehand does not tally with what he says later, or what he says later does not tally with what he has said previously, then although he may have fulfilled his task with distinction, he is condemned to certain punishment. This is what it means to hold your subordinates responsible."
+  },
+  {
+    "id": "f4d8d1f43d52",
+    "philosopher": "Han Fei",
+    "tradition": "동양",
+    "quote": "To govern the state by law is to praise the right and blame the wrong."
   }
 ]
